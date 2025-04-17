@@ -1,0 +1,15 @@
+body {
+    font-size: 14px;
+    width: 350px;
+    max-height: 600px;
+    overflow-y: auto;
+  }
+  
+  input[type="text"]::placeholder {
+    font-style: italic;
+  }
+  
+  h6 {
+    font-weight: 600;
+  }
+  
