@@ -3,6 +3,8 @@
 
 A brief description of what this project does and who it's forA minimalist Chrome extension for managing your daily tasks. Easily add, edit, and mark tasks as completed. The extension allows you to view and manage tasks for specific dates and navigate between previous and next days.
 
+![Image](https://github.com/user-attachments/assets/d587a67d-fd43-4cf7-80bd-af04f5650805)
+
 
 ## Features
 
